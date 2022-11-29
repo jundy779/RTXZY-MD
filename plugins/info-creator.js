@@ -4,7 +4,7 @@ let teks = 'Creator'
 let numberowner = global.numberowner
 let anu = `
 Contact Owner:
-wa.me/${numberowner}
+wa.me/${6285156218249}
 
 _Itu adalah nomor owner/creator bot_`
   conn.sendButtonImg(m.chat, fla + teks, anu, instagram, 'Thanks', 'thanks', m) 
